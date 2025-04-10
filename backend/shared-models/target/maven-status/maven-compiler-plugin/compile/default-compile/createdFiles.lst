@@ -1,0 +1,3 @@
+com\cases\join\models\PersonDTO.class
+com\cases\join\models\PersonDTO$PersonDTOBuilder.class
+com\cases\join\models\PersonDTO$PersonDTOBuilderImpl.class
