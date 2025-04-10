@@ -17,13 +17,15 @@ const Person: React.FC = () => {
     const { register, handleSubmit, formState: { errors } } = useForm<FormValues>();
     const [isSubmitting, setSubmitting] = React.useState<boolean>(false);
 
-    const { showAlert, AlertComponent } = useAlert();
+    const { showAlert, closeAlert, AlertComponent } = useAlert();
 
     const onSubmit = (data: FormValues) => {
         data.cpf = data.cpf.replace(/\D/g, '')
         console.log('data:', data);
 
+        closeAlert();
         setSubmitting(true);
+        
         setTimeout(() => {
             PersonService.save(data)
                 .then(_response => {
