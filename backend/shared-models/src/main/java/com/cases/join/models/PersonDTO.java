@@ -30,6 +30,6 @@ public class PersonDTO {
 	@Email(message = "Informe um e-mail válido")
 	private String email;
 	
-	private String telefone;
+	private String phone;
 
 }

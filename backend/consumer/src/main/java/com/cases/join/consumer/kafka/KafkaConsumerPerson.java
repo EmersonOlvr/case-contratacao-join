@@ -56,7 +56,7 @@ public class KafkaConsumerPerson {
 						.name(person.getName())
 						.cpf(person.getCpf())
 						.email(person.getEmail())
-						.telefone(person.getTelefone())
+						.phone(person.getPhone())
 						.build();
 	}
 	
@@ -66,7 +66,7 @@ public class KafkaConsumerPerson {
 						.name(person.getName())
 						.cpf(person.getCpf())
 						.email(person.getEmail())
-						.telefone(person.getTelefone())
+						.phone(person.getPhone())
 						.build();
 	}
 

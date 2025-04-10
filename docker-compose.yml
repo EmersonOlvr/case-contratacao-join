@@ -67,5 +67,13 @@ services:
       SPRING_DATASOURCE_PASSWORD: 1234
       SPRING_KAFKA_BOOTSTRAP_SERVERS: kafka:9092
 
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - publisher
+
 volumes:
   pgdata:

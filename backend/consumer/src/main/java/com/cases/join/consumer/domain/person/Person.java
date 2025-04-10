@@ -37,6 +37,6 @@ public class Person extends UUIDEntity {
 	private String email;
 	
 	@Column
-	private String telefone;
+	private String phone;
 
 }
