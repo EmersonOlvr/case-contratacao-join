@@ -1,0 +1,9 @@
+com\cases\join\consumer\domain\UUIDEntity.class
+com\cases\join\consumer\config\KafkaConsumerConfig.class
+com\cases\join\consumer\domain\person\Person$PersonBuilder.class
+com\cases\join\consumer\repository\person\PersonRepository.class
+com\cases\join\consumer\domain\person\Person$PersonBuilderImpl.class
+com\cases\join\consumer\domain\UUIDEntity$UUIDEntityBuilder.class
+com\cases\join\consumer\ConsumerApplication.class
+com\cases\join\consumer\domain\person\Person.class
+com\cases\join\consumer\kafka\KafkaConsumerPerson.class

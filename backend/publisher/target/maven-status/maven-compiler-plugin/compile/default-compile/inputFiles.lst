@@ -1,0 +1,13 @@
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\error\ErrorCode.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\error\ErrorResponseDTO.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\error\ErrorResponseException.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\exception\http\BadRequestException.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\exception\http\HttpRuntimeException.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\exception\NotFoundException.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\exception\ValidationHandler.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\kafka\KafkaProducerService.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\kafka\KafkaTopics.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\PublisherApplication.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\serialization\OffsetDateTimeSerializer.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\service\person\PersonService.java
+C:\Users\Emerson\Documents\_projetos_pessoais\_testes-contratacao\Join Tecnologia - Dev Fullstack Java + React Senior\backend\publisher\src\main\java\com\cases\join\publisher\web\person\PersonController.java
